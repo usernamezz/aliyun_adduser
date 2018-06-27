@@ -33,7 +33,7 @@ void init_options(oss_request_options_t *options) {
 void put_object_from_file_test()
 {
 	//printf("请输入需要上传比对图片的位置");
-	char *filename = "C:\\Users\\Zou\\Desktop\\22.jpg";
+	char *filename = "C:\\Users\\Zou\\Desktop\\2.jpg";
 	//filename = (char*)malloc(sizeof(char));
 	char *location;
 	location = new char[50];
